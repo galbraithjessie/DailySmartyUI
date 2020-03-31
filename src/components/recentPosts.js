@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class SearchBar extends Component {
+class RecentPosts extends Component {
 
 
     render() {
