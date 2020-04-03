@@ -14,6 +14,7 @@ class Results extends Component {
     }
 
     render() {
+        
         return (
             <div>
                 <Logo size={55}/>
