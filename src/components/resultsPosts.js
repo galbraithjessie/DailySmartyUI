@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import { connect } from 'react-redux';
 
-class ResultsPost extends Component {
+class ResultsPosts extends Component {
     render() {
         return (
             <div className="results-posts">
