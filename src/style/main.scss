@@ -1,3 +1,23 @@
 .post-topic {
     margin: 0px 14px;
 }
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+
+.home {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    align-content: space-around;
+    gap: 20px;
+}
+
+.search-bar {
+    input {
+        height: 42px;
+        width: 60vw;
+    }
+}
